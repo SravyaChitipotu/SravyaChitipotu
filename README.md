@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @SravyaChitipotu
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning object oriented programming in C++ 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sravyachitipotu06@gmail.com
 
 <!---
